@@ -4,7 +4,7 @@ My name is Marius and I am a DevOps enthusiast. My journey started as a Software
 
 🏢 I'm currently working at [Xebia|Xpirit](https://xpirit.com/team/marius-boden/)
 
-✍️ I'm co-author at [writeabout.net](writeabout.net)
+✍️ I'm co-author at [writeabout.net](https://writeabout.net/)
 
 🌱 I'm currently deep diving into GitHub & AzureDevOps and learning every new stuff about software development that crosses my path 😉
 
