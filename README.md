@@ -15,6 +15,8 @@ My name is Marius and I am a DevOps enthusiast. My journey started as a Software
 ### 🏅Certifications
 
 [![GitHub foundations for non-developers](https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/a0de8408-c514-4298-8b90-9f302d774707/public_url)
+[![Professional Scrum Master™ I (PSM I)](https://images.credly.com/size/150x150/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)](https://www.credly.com/badges/231e16db-e3e9-4488-a126-0eb79d50458e/public_url)
+[![GitLab Certified Services Engineer Professional](https://images.credly.com/size/150x150/images/50eb105d-c1c5-42ef-8f56-1f4d2102e4d0/image.png)](https://www.credly.com/badges/5c57e89f-57b8-4d8a-bb6b-7679dabd3270/public_url)
 
 <!--
 **m4s-b3n/m4s-b3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
