@@ -6,6 +6,8 @@ My name is Marius and I am a DevOps enthusiast. My journey started as a Software
 
 ✍️ I'm co-author at [writeabout.net](https://writeabout.net/)
 
+🤖 I'm owner of [infinite-automations](https://github.com/infinite-automations)
+
 🌱 I'm currently deep diving into GitHub & AzureDevOps and learning every new stuff about software development that crosses my path 😉
 
 💬 Ask me about DevOps, CI/CD, Container, Kubernetes, Infrastructure as Code, Software Architecture and Software Development
