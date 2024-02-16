@@ -2,7 +2,7 @@
 
 My name is Marius and I am a DevOps enthusiast. My journey started as a Software Developer, later I became Software Architect before my focus shifted towards DevOps.
 
-🏢 I'm currently working at [Xebia|Xpirit](https://xpirit.com/team/marius-boden/)
+🏢 I'm currently working at [Xebia](https://xebia.com/about-us/)
 
 ✍️ I'm co-author at [writeabout.net](https://writeabout.net/)
 
