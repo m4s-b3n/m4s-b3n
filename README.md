@@ -8,9 +8,9 @@ My name is Marius and I am a DevOps enthusiast. My journey started as a Software
 
 🤖 I'm owner of [infinite-automations](https://github.com/infinite-automations)
 
-🌱 I'm currently deep diving into GitHub & AzureDevOps and learning every new stuff about software development that crosses my path 😉
+🌱 I'm currently learning every new stuff about DevOps that crosses my path 😉
 
-💬 Ask me about DevOps, CI/CD, Container, Kubernetes, Infrastructure as Code, Software Architecture and Software Development
+💬 Ask me about DevOps, Automation, CI/CD, Container, Kubernetes, Infrastructure as Code and of course GitHub 
 
 🔗 Reach out via [LinkedIn](https://www.linkedin.com/in/marius-boden/)
 
