@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marius and I am a DevOps enthusiast. My journey started as a Software Developer, later I became Software Architect before my focus shifted towards DevOps.
+My name is Marius and I am a DevOps and Automation enthusiast with a strong agile mindset.
 
 🏢 I'm currently working at [Xebia](https://xebia.com/about-us/)
 
