@@ -18,8 +18,9 @@ My name is Marius and I am a DevOps and Automation enthusiast with a strong agil
 
 #### GitHub
 
-<a href="https://www.credly.com/badges/a0de8408-c514-4298-8b90-9f302d774707/public_url"><img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" title="GitHub foundations for non-developers" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/ef7073ba-347b-45d6-9b51-e94664757fce/public_url"><img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" title="GitHub Actions" width="150" height="150"></a>
+<a href="https://www.credly.com/badges/a0de8408-c514-4298-8b90-9f302d774707/public_url"><img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" title="GitHub Foundations" width="150" height="150"></a>
+<a href="https://www.credly.com/badges/ef7073ba-347b-45d6-9b51-e94664757fce/public_url"><img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" title="GitHub Actions" width="150" height="150"></a>
+<a href="https://www.credly.com/badges/f14d3a71-bf6a-4efe-81f3-1d64310d12ee/public_url"><img src="https://images.credly.com/size/150x150/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" title="GitHub Administration" width="150" height="150"></a>
 
 #### Various
 <a href="https://learn.microsoft.com/api/credentials/share/de-de/MariusBoden/8AE233D5E25E6BD5?sharingId=DB90E415332493EB"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" title="Microsoft Certified: Azure Fundamentals" width="150" height="150"></a>
